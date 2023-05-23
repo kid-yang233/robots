@@ -1,2 +1,2 @@
 # robots
-The homework of robos learning base.
+The homework of robot learning base.
